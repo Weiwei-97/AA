@@ -62,7 +62,7 @@ This produces optimized static assets in the `dist/` directory.
 
 ## 🛠️ Tech Stack
 - **Framework**: React 19 + TypeScript
-- **Build Tool**: Vite 6 (configured with `/jric-Alon-Aninag/` base path for GitHub Pages)
+- **Build Tool**: Vite 6 (configured with `/AA/` base path for GitHub Pages)
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
 - **Animations**: Motion (Framer Motion)
